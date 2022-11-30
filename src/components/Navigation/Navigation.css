@@ -1,0 +1,42 @@
+.navbar {
+    margin: auto;
+    padding: auto;
+    top: 51.19px;
+}
+
+.nav-container {
+    margin: auto;
+    padding: auto;
+}
+
+.link-nav {
+    align-items: center;
+    padding: 10.4474px;
+    gap: 41.79px;
+    width: 285.21px;
+    height: 41.79px;
+
+}
+
+
+
+.nav-brand {
+
+    width: 104.47px;
+    margin: auto;
+    padding: auto;
+    font-family: var(--font-family);
+    font-size: 29.2528px !important;
+    line-height: 37px;
+    font-weight: 400 !important;
+    font-size: 29.2528px;
+    color: #000000;
+
+}
+
+.nav-links {
+    font-family: var(--font-family);
+    font-size: 17px !important;
+    font-weight: 600 !important;
+    color: #686C75 !important;
+}

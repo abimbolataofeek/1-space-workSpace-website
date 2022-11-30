@@ -1,0 +1,134 @@
+.hero-container {
+    margin: auto;
+    padding: auto;
+    margin: 200px;
+    top: 377.15px;
+}
+
+/* Orange PicsArt */
+.orangArt {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+/* Hero Text */
+.heroH1Text {
+
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 58.5056px;
+    line-height: 68px;
+    color: #000000;
+}
+
+/* schedule-div */
+.schedule-div {
+    position: absolute;
+    width: 777.29px;
+    height: 102.38px;
+    left: 134.77px;
+    top: 742.81px;
+    display: flex;
+    background: rgba(243, 243, 243, 0.6);
+    backdrop-filter: blur(17.7606px);
+    border-radius: 5.22371px;
+}
+
+.city-icon-text {
+    width: 35.52px;
+    height: 24.03px;
+    left: 207.9px;
+    top: 782.51px;
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18.8054px;
+    line-height: 24px;
+    display: flex;
+
+    /* grey */
+
+    color: #989898;
+    margin: auto;
+    margin-left: 50px;
+
+}
+
+.city-icon {
+    margin-right: 10px;
+}
+
+.location-text {
+    width: 75.22px;
+    height: 24.03px;
+    left: 474.31px;
+    top: 782.51px;
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18.8054px;
+    line-height: 24px;
+    margin: auto;
+    color: #989898;
+}
+
+.schedule-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9.40268px 36.566px;
+    gap: 10.45px;
+    width: 176.56px;
+    height: 56.42px;
+    left: 701.02px;
+    top: 765.8px;
+    margin: auto;
+    margin-right: 20px;
+    background: #FD5B2F !important;
+    border-radius: 5.22371px;
+    border-bottom: #FD5B2F !important;
+    border-width: 135px;
+    border: 0px;
+
+    font-family: var(--font-family) !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 16.7159px !important;
+    line-height: 25px;
+    text-align: center;
+    color: #fff !important;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.schedule-btn:hover {
+    background-color: #f33500 !important;
+}
+
+.circled-imgs-div {
+    position: absolute;
+    height: 37.61px;
+    left: 134.77px;
+    top: 873.4px;
+
+}
+
+.booked-text {
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.5369px;
+    line-height: 38px;
+    color: #000000;
+    width: 581.92px;
+    height: 37.61px;
+    left: 330.14px;
+    top: 874.69px;
+}
+.booked-img{
+    margin-right: 20px;
+    
+}
