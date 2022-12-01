@@ -17,7 +17,7 @@ const HeroSection = () => {
 
             <div className='schedule-div'>
               <p className='city-icon-text'><span className='city-icon'><CiLocationOn /></span> City</p>
-             
+
               <p className='location-text'>Location</p>
 
               <Button className='schedule-btn'> Schedule Visit</Button>
@@ -25,15 +25,17 @@ const HeroSection = () => {
             </div>
             <div className='circled-imgs-div'>
               <p className='booked-text'>
-                <span><img className='booked-img' src={gropUsers} alt="img" />16 people booked a visit in last 24 hours</span></p>
+                <span>
+                  <img className='booked-img' src={gropUsers} alt="img" />16 people booked
+                  a visit in last 24 hours</span>
+              </p>
 
             </div>
 
           </Col>
+          <Col className='workspace-img-col'>
 
-          <Col>
-
-            <img src={herobg} alt="hero-image" />
+            <img className='workspace-img' src={herobg} alt="hero-photo" />
           </Col>
         </Row>
 

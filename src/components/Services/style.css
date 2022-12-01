@@ -1,0 +1,90 @@
+.services-container {
+    margin: auto;
+    padding: auto;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+
+.img-container {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.service-img {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.calender-img {
+    position: absolute;
+  bottom: 0px;
+  right: 90px;
+}
+
+.text-div {
+    margin-top: 190px;
+    justify-content: center;
+}
+
+.service-text {
+    width: 97.16px;
+    height: 22.98px;
+    left: 757.67px;
+    top: 1383.24px;
+
+    font-family: var(--font-family);
+    font-size: 18.8054px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FD5B2F;
+}
+
+.solutions-txt {
+    width: 500.4px;
+    height: 142.08px;
+    left: 757.67px;
+    top: 1411.45px;
+
+    font-family: 'Gilroy-Medium';
+    font-size: 52.2371px;
+    line-height: 71px;
+    color: #000000;
+
+}
+
+.coworking-txt {
+    width: 587.15px;
+    height: 150.44px;
+    left: 757.67px;
+    top: 1574.43px;
+
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15.6711px;
+    line-height: 38px;
+
+    color: #000000;
+}
+
+.view-btn {
+    background-color: #FD5B2F !important;
+    margin: 10px;
+
+    font-family: var(--font-family);
+    font-size: 16.7159px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none !important;
+}
+
+.tour-btn {
+    color: #FD5B2F !important;
+    text-decoration: none !important;
+}

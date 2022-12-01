@@ -3,6 +3,7 @@
     padding: auto;
     margin: 200px;
     top: 377.15px;
+    margin-bottom: 100px;
 }
 
 /* Orange PicsArt */
@@ -113,8 +114,7 @@
     height: 37.61px;
     left: 134.77px;
     top: 873.4px;
-
-}
+  }
 
 .booked-text {
     font-family: var(--font-family);
@@ -129,6 +129,10 @@
     top: 874.69px;
 }
 .booked-img{
-    margin-right: 20px;
+    margin-right: 10px;
     
+}
+
+.workspace-img-col{
+
 }
