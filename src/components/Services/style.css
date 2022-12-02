@@ -1,8 +1,8 @@
 .services-container {
     margin: auto;
     padding: auto;
-    margin-top: 300px;
-    margin-bottom: 300px;
+    margin-top: 250px;
+    margin-bottom: 250px;
 }
 
 .img-container {
@@ -84,7 +84,17 @@
     border: none !important;
 }
 
+.view-btn:hover {
+    background-color: #f33500 !important;
+}
+
+
 .tour-btn {
     color: #FD5B2F !important;
     text-decoration: none !important;
+}
+
+.tour-btn:hover {
+    background-color: #FD5B2F !important;
+    color: #FFFFFF !important;
 }

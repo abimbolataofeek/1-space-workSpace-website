@@ -3,7 +3,7 @@ import { Container, Row, Col, Button } from 'react-bootstrap';
 import serviceImg from '../../assets/serviceImg.png'
 import calenderImg from '../../assets/calenderImg.png'
 import {BsPlayCircle} from 'react-icons/bs';
-// import { CiLocationOn } from 'react-icons/ci'
+
 
 import './style.css'
 

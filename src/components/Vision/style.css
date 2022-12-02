@@ -1,0 +1,79 @@
+.vision-container {
+    margin: auto;
+    padding: auto;
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+.vision-txt {
+    width: 97.16px;
+    height: 22.98px;
+    left: 757.67px;
+    top: 1383.24px;
+
+    font-family: var(--font-family);
+    font-size: 18.8054px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FD5B2F;
+}
+
+.coworking-txt {
+    width: 587.15px;
+    height: 150.44px;
+    left: 757.67px;
+    top: 1574.43px;
+
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15.6711px;
+    line-height: 38px;
+
+    color: #000000;
+}
+
+.Twocontainer {
+    display: flex;
+}
+
+.icons-div{
+   margin-right: 50px !important;
+}
+
+.icons {
+ position: absolute;
+width:  20px !important;
+   
+
+}
+
+.header-txt {
+    margin-left: 40px;
+    height: 19.85px;
+    left: 172.61px;
+    top: 2450.97px;
+    font-weight: 600;
+    font-family: var(--font-family);
+    font-size: 16.7159px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.txt {
+    width: 247.6px;
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15.6711px;
+    line-height: 38px;
+    margin-left: 40px !important;
+    color: #000000;
+}
+.img-col{
+    margin-top: -100px !important;
+
+}

@@ -2,6 +2,7 @@ import Navigation from './components/Navigation/Navigation';
 import HeroSection from './components/HeroSection/HeroSection';
 import Partners from './components/Partners/Partners';
 import Services from './components/Services/Services';
+import Vision from './components/Vision/Vision';
 
 import './App.css';
 
@@ -12,6 +13,7 @@ function App() {
      <HeroSection />
      <Partners />
      <Services />
+     <Vision />
     </div>
 
   );

@@ -91,7 +91,7 @@
     border-radius: 5.22371px;
     border-bottom: #FD5B2F !important;
     border-width: 135px;
-    border: 0px;
+    border: none !important;
 
     font-family: var(--font-family) !important;
     font-style: normal !important;
