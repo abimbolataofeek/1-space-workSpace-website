@@ -1,0 +1,86 @@
+.wcu-container {
+    margin: auto;
+    padding: auto;
+    margin-top: 250px;
+    margin-bottom: 250px;
+
+}
+.row-container{
+    margin: auto;
+    padding: auto;
+    margin-top: 110px !important;
+}
+
+.why-txt {
+    width: 190.01px;
+    height: 29.98px;
+    left: 639.38px;
+    top: 3827.94px;
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 18.8054px;
+    line-height: 22px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    justify-content: center !important;
+    margin: auto;
+    padding: auto;
+    color: #FD5B2F;
+
+}
+
+.benefits-txt {
+    width: 497.3px;
+    height: 142.08px;
+    left: 472.22px;
+    top: 3856.14px;
+    font-family: var(--font-family);
+    font-size: 52.2371px;
+    line-height: 71px;
+    /* or 136% */
+
+    text-align: center;
+
+    /* black */
+
+    color: #000000;
+    margin: auto;
+    padding: auto;
+
+}
+
+.wcu-icons {
+    font-size: 50px;
+    color: #FD5B2F;
+    text-align: center;
+
+}
+
+.header {
+    height: 26.12px;
+    top: 83.58px;
+    font-family: var(--font-family);
+    font-size: 20.8948px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+.p-txt {
+    width: 216.26px;
+    height: 75.22px;
+    left: 0px;
+    top: 125.37px;
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12.5369px;
+    line-height: 25px;
+    /* or 200% */
+
+    text-align: center;
+
+    /* black */
+
+    color: #000000;
+}

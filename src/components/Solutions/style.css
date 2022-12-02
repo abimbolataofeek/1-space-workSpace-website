@@ -1,0 +1,27 @@
+.solutiosion-container {
+    margin: auto;
+    padding: auto;
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+.big-p-txt{
+
+width: 600.58px;
+height: 142.08px;
+left: 135px;
+top: 3102.88px;
+font-family: var(--font-family);
+font-size: 52.2371px;
+line-height: 71px;
+/* or 136% */
+
+
+/* black */
+
+color: #000000;
+}
+
+.img-col{
+    margin-top: -140px !important;
+
+}
