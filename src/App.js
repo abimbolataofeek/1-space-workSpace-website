@@ -5,6 +5,7 @@ import Services from './components/Services/Services';
 import Vision from './components/Vision/Vision';
 import Solutions from './components/Solutions/Solutions'
 import WCU from './components/WCU/WCU'
+import Gallery from './components/Gallery/Gallery'
 
 import './App.css';
 
@@ -18,6 +19,7 @@ function App() {
      <Vision />
      <Solutions />
      <WCU />
+     <Gallery />
     </div>
 
   );

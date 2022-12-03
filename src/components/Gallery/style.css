@@ -1,0 +1,42 @@
+.gallery-txt {
+    width: 97.16px;
+    height: 22.98px;
+    left: 757.67px;
+    top: 1383.24px;
+    font-family: var(--font-family);
+    font-size: 18.8054px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FD5B2F;
+}
+
+.immersive-txt {
+    width: 613.26px;
+    height: 142.08px;
+    left: 143px;
+    top: 4435px;
+    font-family: var(--font-family);
+    font-size: 45.2371px;
+    line-height: 71px;
+    color: #000000;
+}
+
+.gallery-img1 {
+    width: 229.84px;
+    height: 229.84px;
+    left: 135px;
+    top: 4627.16px;
+    margin: 15px 12px 15px 12px ;
+
+}
+
+/* .gallery-img2 {
+  
+    width: 376.11px;
+    height: 229.84px;
+    left: 396.19px;
+    top: 4627.16px;
+
+} */
