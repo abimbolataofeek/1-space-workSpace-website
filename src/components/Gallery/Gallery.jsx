@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col, Button } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import galleryside from '../../assets/galleryside.png'
 import gallery1 from '../../assets/gallery1.png'; 
 import gallery2 from '../../assets/gallery2.png'; 
@@ -11,7 +11,7 @@ import "./style.css"
 const Gallery = () => {
   return (
     <>
-      <Container>
+      <Container className='gallery-container'>
         <Row>
           <Col>
             <p className='gallery-txt'>Gallery</p>

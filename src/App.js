@@ -6,6 +6,8 @@ import Vision from './components/Vision/Vision';
 import Solutions from './components/Solutions/Solutions'
 import WCU from './components/WCU/WCU'
 import Gallery from './components/Gallery/Gallery'
+import Member from './components/Member/Member'
+import Footer from './components/Footer/Footer'
 
 import './App.css';
 
@@ -20,6 +22,8 @@ function App() {
      <Solutions />
      <WCU />
      <Gallery />
+     <Member />
+     <Footer />
     </div>
 
   );

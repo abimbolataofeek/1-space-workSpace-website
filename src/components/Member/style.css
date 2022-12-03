@@ -1,0 +1,66 @@
+.member-txt {
+
+    height: 22.98px;
+    left: 757.67px;
+    top: 1383.24px;
+    font-family: var(--font-family);
+    font-size: 18.8054px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FD5B2F;
+}
+
+.ready-txt {
+    width: 613.26px;
+    height: 142.08px;
+    left: 143px;
+    top: 4435px;
+    font-family: var(--font-family);
+    font-size: 45.2371px;
+    line-height: 71px;
+    color: #000000;
+}
+
+.sign-up-btn {
+    background-color: #FD5B2F !important;
+    font-family: var(--font-family);
+    font-size: 16.7159px;
+    margin: auto;
+    padding: auto;
+    margin-right: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    height: 55px;
+    width: 190px;
+    border: none !important;
+}
+
+.sign-up-btn:hover {
+    background-color: #f33500 !important;
+}
+
+
+.schedule-btn {
+    color: #FD5B2F !important;
+    background-color: #fff !important;
+    text-decoration: none !important;
+    font-size: 16.7159px;
+    line-height: 20px;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    line-height: 20px;
+    text-align: center;
+    height: 58px;
+    width: 190px;
+    border: 2px solid #FD5B2F !important;
+    border-radius: 13px !important;
+}
+
+.schedule-btn:hover {
+    background-color: #FD5B2F !important;
+    color: #FFFFFF !important;
+}
