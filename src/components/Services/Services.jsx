@@ -13,12 +13,12 @@ const Services = () => {
     <>
       <Container className='services-container'>
         <Row>
-          <Col className='img-container' >
-            <img className='service-img' src={serviceImg} alt="bg-img" />
+          <Col className='img-container' lg={true} >
+            <img src={serviceImg} alt="bg-img" />
             <img className='calender-img' src={calenderImg} alt="calender-img" />
           </Col>
 
-          <Col>
+          <Col className='text-container' lg={true} >
             <div className='text-div'>
               <p className='service-text'>Services</p>
 
@@ -26,12 +26,14 @@ const Services = () => {
 
               <p className='coworking-txt'>Coworking is an arrangement in which
                 workers of different companies share an office space,
-                common infrastructures, such as equipment, utilities, and receptionist and custodial services, and in some
+                common infrastructures, such as equipment, utilities, and 
+                receptionist and custodial services, and in some
                 cases refreshments and parcel acceptance services.</p>
             </div>
             <Button size="lg" className='view-btn'> View Availability</Button>
             
-            <Button variant="link" size="lg" className='tour-btn'><BsPlayCircle /> 3D Tour of Space</Button>
+            <Button variant="link" size="lg" className='tour-btn'><BsPlayCircle /> 3D 
+            Tour of Space</Button>
           </Col>
         </Row>
 

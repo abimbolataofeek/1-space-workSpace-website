@@ -1,42 +1,82 @@
 .navbar {
-    margin: auto;
-    padding: auto;
-    top: 51.19px;
+    display: flex;
+    margin: auto !important;
+    padding: auto !important;
+    justify-content: center !important;
+    align-items: center !important;
+  
+
 }
 
 .nav-container {
-    margin: auto;
-    padding: auto;
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: auto !important;
+    padding: auto !important;
+  
+    width: auto !important;
+
+    /* height: 70px;
+    margin-top: 70px;
+    background-color: #fff; */
 }
 
-.link-nav {
+.links-container {
+    width: 600px;
+    display: flex;
+    justify-content: center !important;
+
+}
+
+.left-links {
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row;
     align-items: center;
     padding: 10.4474px;
     gap: 41.79px;
-    width: 285.21px;
-    height: 41.79px;
-
+    /* height: 41.79px; */
+    /* left: 131.64px; */
+    top: 51.19px;
+    /* margin-left: 200px !important; */
 }
 
+.logo-text {
 
-
-.nav-brand {
-
-    width: 104.47px;
-    margin: auto;
-    padding: auto;
+    /* left: 668.63px; */
     font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 600;
     font-size: 29.2528px !important;
-    line-height: 37px;
-    font-weight: 400 !important;
-    font-size: 29.2528px;
+    
+    line-height: 37px ;
+    text-align: center;
     color: #000000;
-
+     display: flex;
+    justify-content: center;
 }
 
-.nav-links {
+
+.right-links {
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10.4474px;
+    gap: 41.79px;
+    /* height: 41.79px; */
+    /* left: 131.64px; */
+    
+    /* margin-left: 200px !important; */
+}
+
+.links {
+    font-style: normal;
+    font-size: 16.7159px !important;
+    line-height: 21px;
     font-family: var(--font-family);
-    font-size: 17px !important;
-    font-weight: 600 !important;
-    color: #686C75 !important;
+    text-transform: uppercase;
+    color: #686C75;
+
 }

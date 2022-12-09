@@ -4,6 +4,8 @@
     margin: 200px;
     top: 377.15px;
     margin-bottom: 100px;
+    display: flex;
+    justify-content: center !important ;
 }
 
 /* Orange PicsArt */
@@ -74,38 +76,21 @@
     color: #989898;
 }
 
-.schedule-btn {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    padding: 9.40268px 36.566px;
-    gap: 10.45px;
+.hero-schedule-btn {
     width: 176.56px;
     height: 56.42px;
-    left: 701.02px;
-    top: 765.8px;
     margin: auto;
     margin-right: 20px;
     background: #FD5B2F !important;
-    border-radius: 5.22371px;
-    border-bottom: #FD5B2F !important;
-    border-width: 135px;
-    border: none !important;
-
+    border: none !important;    
     font-family: var(--font-family) !important;
     font-style: normal !important;
     font-weight: 500 !important;
     font-size: 16.7159px !important;
-    line-height: 25px;
-    text-align: center;
-    color: #fff !important;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
+    
 }
 
-.schedule-btn:hover {
+.hero-schedule-btn:hover {
     background-color: #f33500 !important;
 }
 

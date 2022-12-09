@@ -14,8 +14,8 @@ import './App.css';
 function App() {
   return (
     <div>
-     <Navigation />
-     <HeroSection />
+     {/* <Navigation /> */}
+     {/* <HeroSection /> */}
      <Partners />
      <Services />
      <Vision />

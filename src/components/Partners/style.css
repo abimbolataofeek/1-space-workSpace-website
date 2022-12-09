@@ -1,10 +1,11 @@
-.partners-container{
-     margin: auto;
-    padding: auto;
-    margin-top: 10px;
-    margin-bottom: 50px;
-    width: 800px !important;
+.container-div {
+     display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 50.48px;
+    width: auto;
+    height: 24.15px;
+    left: 384.47px;
+    top: 1014.44px;
     justify-content: center;
-   
 }
-

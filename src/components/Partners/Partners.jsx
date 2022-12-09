@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container, Row, div } from 'react-bootstrap';
 import shopify from '../../assets/shopify.png';
 import dropbox from '../../assets/dropbox.png';
 import google from '../../assets/google.png';
@@ -10,32 +10,32 @@ import './style.css'
 
 const Partners = () => {
   return (
-   <>
-   <Container className='partners-container'>
-    <Row>
-      <Col className='partners-logo'>
-      <img src={shopify} alt="shopify-img" />
-      </Col>
+    <>
+      <div className='container-div'>
 
-      <Col className='partners-logo'>
-      <img src={dropbox} alt="dropbox-img" />
-      </Col>
+        <div sm>
+          <img className='partners-logo' src={shopify} alt="shopify-img" />
+        </div>
 
-      <Col className='partners-logo'>
-      <img src={google} alt="google-img" />
-      </Col>
+        <div sm>
+          <img className='partners-logo' src={dropbox} alt="dropbox-img" />
+        </div>
 
-      <Col className='partners-logo'>
-      <img src={atlassian} alt="atlassian-img" />
-      </Col>
-      
-      <Col className='partners-logo'> 
-      <img src={slack} alt="slack-img" />
-      </Col>
-    </Row>
-   </Container>
+        <div sm>
+          <img className='partners-logo' src={google} alt="google-img" />
+        </div>
 
-   </>
+        <div sm>
+          <img className='partners-logo' src={atlassian} alt="atlassian-img" />
+        </div>
+
+        <div sm>
+          <img className='partners-logo' src={slack} alt="slack-img" />
+        </div>
+
+      </div>
+
+    </>
   )
 }
 

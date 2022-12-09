@@ -4,11 +4,20 @@
     margin-top: 250px;
     margin-bottom: 250px;
 
+
+
 }
-.row-container{
+
+.row-container {
     margin: auto;
     padding: auto;
     margin-top: 110px !important;
+
+}
+
+.col-container {
+    justify-content: center !important;
+    margin: auto;
 }
 
 .why-txt {
@@ -30,19 +39,10 @@
 }
 
 .benefits-txt {
-    width: 497.3px;
-    height: 142.08px;
-    left: 472.22px;
-    top: 3856.14px;
+    width: 510.3px;
     font-family: var(--font-family);
     font-size: 52.2371px;
-    line-height: 71px;
-    /* or 136% */
-
     text-align: center;
-
-    /* black */
-
     color: #000000;
     margin: auto;
     padding: auto;
@@ -52,7 +52,9 @@
 .wcu-icons {
     font-size: 50px;
     color: #FD5B2F;
+    justify-content: center;
     text-align: center;
+
 
 }
 
@@ -64,23 +66,18 @@
     line-height: 24px;
     text-align: center;
     color: #000000;
+  
+   
 }
 
 .p-txt {
-    width: 216.26px;
-    height: 75.22px;
-    left: 0px;
-    top: 125.37px;
     font-family: var(--font-family);
     font-style: normal;
     font-weight: 600;
     font-size: 12.5369px;
     line-height: 25px;
-    /* or 200% */
-
-    text-align: center;
-
-    /* black */
-
+    text-align: center !important;
+    justify-content: center !important;
+    width: auto;
     color: #000000;
 }

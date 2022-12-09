@@ -11,7 +11,7 @@ const Vision = () => {
     <>
       <Container className='vision-container'>
         <Row>
-          <Col>
+          <Col lg={true}>
             <p className='vision-txt'>Visions</p>
 
             <p className='coworking-txt'>
@@ -63,8 +63,8 @@ const Vision = () => {
             <Button size="lg" className='view-btn'> View Availability</Button>
           </Col>
 
-          <Col className='img-col'>
-            <img src={visionImg} alt="bg-img" />
+          <Col className='img-col' lg={true}>
+            <img  src={visionImg} alt="bg-img" />
           </Col>
         </Row>
       </Container>
